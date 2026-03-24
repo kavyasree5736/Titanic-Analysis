@@ -24,6 +24,7 @@ This project explores the Titanic dataset in two ways:
 ### Perspective 2: Power BI-style Dashboard
 - Combined pivot tables into polished dashboard charts in Google Sheets.  
 - **Dashboard screenshots:**
+  
 ![Survival by Class](google-sheets-dashboard/screenshots/Age.jpng)    
 ![Survival by Gender](google-sheets-dashboard/screenshots/Embarked.jpng)  
 ![Fare vs Survival](google-sheets-dashboard/screenshots/Fare.jpng)  
