@@ -14,7 +14,8 @@ This project explores the Titanic dataset in two ways:
 ### Perspective 1: Raw Data Exploration
 - Created pivot tables in Google Sheets to understand survival patterns.  
 - Focused on Gender, Passenger Class, Fare ranges, Embarked port, and Family Size.
-- **Screenshots of pivot tables:**  
+- **Screenshots of pivot tables:**
+
 ![Pivot Gender](google-sheets-dashboard/screenshots/raw_data/pivot_Age.jpng)  
 ![Pivot Class](google-sheets-dashboard/screenshots/raw_data/pivot_Fare.jpng)  
 ![Pivot Fare](google-sheets-dashboard/screenshots/raw_data/pivot_Gender.jpng)  
